@@ -1,6 +1,6 @@
 <h1>Sample Bundler</h1>
 
-Bundles simple  'Hello world' JS program
+Bundles simple  'Hello world' JS program without any bundling tools!
 
 Its a step by step copy of https://github.com/ronami/minipack/tree/master
 
